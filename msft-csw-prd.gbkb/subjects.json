@@ -1,0 +1,34 @@
+{
+	"children": [
+		{
+			"title": "Cognitive Search Introduction",
+			"description": "In this section, we'll set the stage for the rest of the course. We'll start by talking about the motivation behind a cognitive search type of solution and what types of scenarios might call for it.",
+			"id": "introduction",
+			"from":"faq"
+		},
+		{
+			"title": "Lab 01",
+			"description": "Cognitive skills are natural language processing (NLP) and image analysis operations that extract text and text representations of an image, detect language, entities, key phrases, and more. ",
+			"id": "lab01",
+			"from":"faq"
+		},
+		{
+			"title": "Lab 02",
+			"description": "In this lab, we will verify the lack of image processing results we got from the previous lab and fix it by adding image analysis skill sets to our pipeline. There were png and jpg images within the provided dataset.",
+			"id": "lab02",
+			"from":"faq"
+		},
+		{
+			"title": "Lab 03",
+			"description": "In this lab, you will learn how to create a web API custom skill that accepts text in any language and translates it to English. It is required because there are documents in languages besides English in our dataset.",
+			"id": "lab03",
+			"from":"faq"
+		},
+		{
+			"title": "Architecture, Finished Solutions and More",
+			"description": "This activity was designed as a group exercise in ILT (Instructor Lead Trainigs). But you also can do it if you are doing the workshop alone. This culminating activity will allow you and your group to get hands-on experience.",
+			"id": "more",
+			"from":"faq"
+		}
+	]
+}

@@ -1,0 +1,9 @@
+### Azure Search
+Developers are constantly looking for PaaS services in Azure to achieve better and faster results in the applications they build. While search is key to many types of applications, few people are subject matter experts. From an infrastructure standpoint, it needs to have high availability, durability and scalability. From a functionality standpoint, it needs to have ranking, language support, and geospatial capabilities. Users have come to expect instant results, auto-complete as they type, highlighting hits within the results, great ranking, and the ability to understand what they are looking for, even if they spell it incorrectly or include extra words.
+
+![](./media/AzureSearch.PNG)
+
+
+The example above illustrates some of the components users are expecting in their search experience. [Azure Search](https://docs.microsoft.com/en-us/azure/search/search-what-is-azure-search) can accomplish these user experience features, along with giving you [monitoring and reporting](https://docs.microsoft.com/en-us/azure/search/search-traffic-analytics), [simple scoring](https://docs.microsoft.com/en-us/rest/api/searchservice/add-scoring-profiles-to-a-search-index), and tools for [prototyping](https://docs.microsoft.com/en-us/azure/search/search-import-data-portal) and [inspection](https://docs.microsoft.com/en-us/azure/search/search-explorer).  
+
+You're probably familiar with other search-related solutions like the [Bing Web Search API](https://docs.microsoft.com/azure/cognitive-services/bing-web-search/), [Bing Custom Search](https://docs.microsoft.com/azure/cognitive-services/bing-custom-search/), [SQL Server full text search](https://docs.microsoft.com/sql/relational-databases/search/full-text-search), or even creating dedicated search solutions.. You can see how Azure Search compares to the other solutions [here](https://docs.microsoft.com/en-us/azure/search/search-what-is-azure-search#how-azure-search-compares).
